@@ -6,3 +6,5 @@ Git連載記事の作業用のリポジトリです。
 * [GitHub Help](https://help.github.com/)
 
 # TEMPLATE のテスト
+
+# テスト
